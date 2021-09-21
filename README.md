@@ -10,4 +10,5 @@ Tugas Chapter 5 dari studi independen Agate Academy bidang game programming. Hal
 - Menambahkan notifikasi menang atau kalah setelah level selesai. Jika menang pada level 1 akan otomatis ke level selanjutnya, kalau pada level 2 akan berhenti karena level maks. Jika kalah, maka akan otomatis mengulangi level yang kalah tersebut.
 
 Nama      : Abdurrahman Luqmanul Hakim
+
 ID Agate  : 135
